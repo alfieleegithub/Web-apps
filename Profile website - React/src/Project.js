@@ -5,8 +5,7 @@ class Project extends Component {
 
     render() {
         return (
-            <MainContainer>
-                <main className="container-fluid">
+            <main className="container-fluid">
                     <div className="row">
                         <div className="col-12 px-4 py-5">
                             <h2 className="subtitle">Online Employee Record System:</h2>
@@ -31,7 +30,6 @@ class Project extends Component {
                         </div>
                     </div>
                 </main>
-            </MainContainer >
         )
     }
 }

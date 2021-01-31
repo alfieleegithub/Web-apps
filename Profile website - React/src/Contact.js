@@ -49,8 +49,7 @@ const Contact = () => {
     },
   });
   return (
-    <MainContainer >
-      <main className="bg-contact container-fluid">
+    <main className="bg-contact container-fluid">
         <div className="row justify-content-center">
           <div className="wrap col-8">
             <h1 className="subtitle text-center">CONTACT ME</h1>
@@ -106,7 +105,6 @@ const Contact = () => {
           </div>
         </div>
       </main>
-    </MainContainer >
   );
 };
 

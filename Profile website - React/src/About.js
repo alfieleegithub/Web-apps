@@ -9,8 +9,7 @@ class About extends Component {
 
     render() {
         return (
-            <MainContainer>
-                <main className="container-fluid">
+            <main className="container-fluid">
                     <div className="row px-4 py-5">
                         <div className="col-12 col-md-6 text-center text-md-left">
                             <img src={require("./images/Alfie.jpg")} alt="Profile" className="profile pb-5" />
@@ -44,7 +43,6 @@ class About extends Component {
                         })}
                     </div>
                 </main>
-            </MainContainer >
         )
     }
 }
