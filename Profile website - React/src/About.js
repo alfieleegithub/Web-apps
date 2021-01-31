@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import MainContainer from './MainContainer';
 
 class About extends Component {
     constructor(props) {

@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Route, Switch } from 'react-router-dom';
+import NavBar from './NavBar';
 import About from './About';
 import Contact from './Contact';
 import Project from './Project';

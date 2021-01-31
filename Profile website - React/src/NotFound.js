@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import MainContainer from './MainContainer';
 
 class NotFound extends Component {
     render() {
